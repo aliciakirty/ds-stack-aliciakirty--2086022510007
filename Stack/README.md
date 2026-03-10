@@ -89,3 +89,5 @@ while (!stack.isEmpty()) {
 -How to compile/run each question: java No5
 -Input format + example usage: Input: 50 , Outputnya: 1 3 6 12 25 50
 -Any assumptions and edge cases: tidak dapat memproses nilai negatif, kemudian jika inputan 0 maka tidak ada outputnya.
+
+https://github.com/aliciakirty/ds-stack-aliciakirty--2086022510007/tree/c0c09a699a3e726cfbda284e04a0111452147b6b/Stack/report
